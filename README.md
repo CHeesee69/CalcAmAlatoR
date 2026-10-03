@@ -3,7 +3,7 @@
 
 The CalcAmAlatoR (kal-kuh-ma-ley-ter) is an advanced terminal calculator written in Python. This is the first release, so it's very limited. But I plan to add more operations over time.
 <img width="1443" height="107" alt="Screenshot 2026-10-01 101132" src="https://github.com/user-attachments/assets/e3592775-eb11-491b-97f1-2229f47f2e52" />
-Currently, there is four different operations:
+Currently, there are four different operations:
 
 - Basic Arithmetic
 - Geometric Shapes
@@ -15,7 +15,8 @@ Currently, there is four different operations:
 - [sympy](https://github.com/sympy/sympy/releases)
 
 ## Use
-Just download the zip from the releases and run the "Main_v1.0.py" file using Python. Or you could download the individual operations from the Python folder.
+Just download the zip from the releases and run the "Main_v1.0.exe" file. Or you could download the individual operations from the Python folder and run the "Main_v1.0.py" script.
+Currently, I have only compiled the scripts for win_x64_x86, but I have plans for later versions to support Linux and Intel and Apple Silicon macOS devices.
 
 <img width="1437" height="442" alt="Screenshot 2026-10-01 100540" src="https://github.com/user-attachments/assets/34a3d14a-7cd7-4407-85a1-4927f748cb4e" />
 
